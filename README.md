@@ -7,7 +7,7 @@ I'm a Network Implementation Engineer and aspiring AWS Cloud Support Engineer pa
 ###  Skills
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_web_services/amazon_web_services-icon.svg" alt="AWS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_web_services/amazon_web_services-icon.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
